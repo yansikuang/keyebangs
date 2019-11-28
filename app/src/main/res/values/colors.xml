@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="themeColorBlue">#3683FC</color>
+    <color name="themeColorYellow">#FFB000</color>
+    <color name="themeColorPink">#FC6699</color>
+    <color name="textHintBlue">#603683FC</color>
+    <color name="textHintPink">#60FC6699</color>
+    <color name="accountEdTextBlue">#103683FC</color>
+    <color name="accountEdTextPink">#1EFC6699</color>
+</resources>
